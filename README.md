@@ -5,6 +5,7 @@
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
 Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 
 - 🔭 I’m currently working on a CI/CD pipeline 
 - 🌱 I’m currently learning Google cloud platform (GCP) 
