@@ -9,7 +9,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/jenkins.svg' alt='github' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mysql.svg' alt='github' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mongodb.svg' alt='github' height='40'>
-<img src='https://unpkg.com/simple-icons@v7/icons/nodejs.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/node.js.svg' alt='github' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/docker.svg' alt='github' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/git.svg' alt='github' height='40'>
 
