@@ -4,12 +4,12 @@
 
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
-Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH <br>
+Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH / NESTJS / TYPESCRIPT <br>
 <img src='https://unpkg.com/simple-icons@v7/icons/kubernetes.svg' alt='kubernestes' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/jenkins.svg' alt='jenkins' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mysql.svg' alt='mysql' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mongodb.svg' alt='mongodb' height='40'>
-<img src='https://unpkg.com/simple-icons@v7/icons/nodeJs.svg' alt='nodejs' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/nodejs.svg' alt='nodejs' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/docker.svg' alt='docker' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/git.svg' alt='git' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/ansible.svg' alt='ansible' height='40'>
@@ -17,6 +17,8 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/express.svg' alt='express' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/linux.svg' alt='linux' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/gnubash.svg' alt='bash' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/nestjs.svg' alt='nestjs' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/typescript.svg' alt='typescript' height='40'>
 
 
 
