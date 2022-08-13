@@ -16,7 +16,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/harbor.svg' alt='harbor' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/express.svg' alt='express' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/linux.svg' alt='linux' height='40'>
-<img src='https://unpkg.com/simple-icons@v7/icons/bash.svg' alt='bash' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/gnubash.svg' alt='bash' height='40'>
 
 
 
