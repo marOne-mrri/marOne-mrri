@@ -9,9 +9,15 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/jenkins.svg' alt='jenkins' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mysql.svg' alt='mysql' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mongodb.svg' alt='mongodb' height='40'>
-<img src='https://unpkg.com/simple-icons@v7/icons/node-js.svg' alt='nodejs' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/nodeJs.svg' alt='nodejs' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/docker.svg' alt='docker' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/git.svg' alt='git' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/ansible.svg' alt='ansible' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/harbor.svg' alt='harbor' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/express.svg' alt='express' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/linux.svg' alt='linux' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/bash.svg' alt='bash' height='40'>
+
 
 
 
