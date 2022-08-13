@@ -4,8 +4,14 @@
 
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
-Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH.
+<img src='https://unpkg.com/simple-icons@v7/icons/kubernetes.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/jenkins.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/mysql.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/mongodb.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/nodejs.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/docker.svg' alt='github' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/git.svg' alt='github' height='40'>
 
 - 🔭 I’m currently working on a CI/CD pipeline 
 - 🌱 I’m currently learning Google cloud platform (GCP) 
