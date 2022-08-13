@@ -1,6 +1,6 @@
 # Hi there 👋, Marouane Ourdou
 #### I am junior DevOps/CLOUD engineer.
-![I am junior DevOps/CLOUD engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am junior DevOps/CLOUD engineer.](./banner_mrri.png)
 
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
