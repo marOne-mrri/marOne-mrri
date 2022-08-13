@@ -19,6 +19,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/gnubash.svg' alt='bash' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/nestjs.svg' alt='nestjs' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/typescript.svg' alt='typescript' height='40'>
+<img src='https://unpkg.com/simple-icons@v7/icons/google-cloud.svg' alt='gcp' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/argo.svg' alt='argocd' height='40'>
 
 
