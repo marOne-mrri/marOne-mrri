@@ -4,7 +4,7 @@
 
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
-Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH / NESTJS / TYPESCRIPT <br>
+Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH / NESTJS / TYPESCRIPT / TERRAFORM <br>
 <img src='https://unpkg.com/simple-icons@v7/icons/kubernetes.svg' alt='kubernestes' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/jenkins.svg' alt='jenkins' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mysql.svg' alt='mysql' height='40'>
@@ -21,7 +21,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/typescript.svg' alt='typescript' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/googlecloud.svg' alt='gcp' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/argo.svg' alt='argocd' height='40'>
-
+<img src='https://unpkg.com/simple-icons@v7/icons/terraform.svg' alt='terraform' height='40'>
 
 
 
