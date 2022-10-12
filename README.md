@@ -22,7 +22,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/googlecloud.svg' alt='gcp' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/argo.svg' alt='argocd' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png' alt='python' height='40'>
-<img src='https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png' alt='terraform' height='40'>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlns9WRA0y94VkaVYgkR7R0AC50NSG3aoRh_KD3EUwJBKKWrmk4YXUOJXCV0dYn_GS5TI&usqp=CAU' alt='terraform' height='40'>
 <img src='https://datacom.com/content/dam/logos/partner-client-logos/AWS_Logo_White.png' alt='aws' height='40'>
 
 
