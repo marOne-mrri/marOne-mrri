@@ -5,14 +5,14 @@
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
 Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH / NESTJS / TYPESCRIPT / TERRAFORM <br>
-<img src='https://unpkg.com/simple-icons@v7/icons/kubernetes.svg' alt='kubernestes' height='40'>
+<img src='https://kubernetes.io/images/favicon.png' alt='kubernestes' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/jenkins.svg' alt='jenkins' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mysql.svg' alt='mysql' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/mongodb.svg' alt='mongodb' height='40'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='40'>
+<img src='https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png' alt='nodejs' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/docker.svg' alt='docker' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/git.svg' alt='git' height='40'>
-<img src='https://unpkg.com/simple-icons@v7/icons/ansible.svg' alt='ansible' height='40'>
+<img src='https://avatars.githubusercontent.com/u/1507452?s=200&v=4' alt='ansible' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/harbor.svg' alt='harbor' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/express.svg' alt='express' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/linux.svg' alt='linux' height='40'>
@@ -22,7 +22,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://unpkg.com/simple-icons@v7/icons/googlecloud.svg' alt='gcp' height='40'>
 <img src='https://unpkg.com/simple-icons@v7/icons/argo.svg' alt='argocd' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png' alt='python' height='40'>
-<img src='https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png' alt='terraform' height='40'>
+<img src='https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png' alt='terraform' height='40'>
 <img src='https://datacom.com/content/dam/logos/partner-client-logos/AWS_Logo_White.png' alt='aws' height='40'>
 
 
