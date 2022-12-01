@@ -27,7 +27,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 
 
 
-- 🔭 I’m currently working on some IaC proects with terraform under AWS
+- 🔭 I’m currently working on some IaC projects with terraform under AWS
 - 🌱 I’m currently learning cloud technologies (GCP/AWS) 
 - 👯 I’m looking to collaborate on open source projects 
 
