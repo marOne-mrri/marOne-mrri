@@ -4,7 +4,7 @@
 
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
 
-Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH / NESTJS / TYPESCRIPT / TERRAFORM / PYTHON <br>
+Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER / ANSIBLE / MONGODB / MYSQL / EXPRESSJS / LINUX / BASH / NESTJS / TYPESCRIPT / TERRAFORM / PYTHON / NGINX <br>
 <img src='https://kubernetes.io/images/favicon.png' alt='kubernestes' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png' alt='jenkins' height='40'>
 <img src='https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png' alt='mysql' height='40'>
@@ -24,6 +24,7 @@ Skills: KUBERNETES / JENKINS / GIT / ARGOCD / HARBOR / NODEJS / GITHUB / DOCKER 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png' alt='python' height='40'>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlns9WRA0y94VkaVYgkR7R0AC50NSG3aoRh_KD3EUwJBKKWrmk4YXUOJXCV0dYn_GS5TI&usqp=CAU' alt='terraform' height='40'>
 <img src='https://datacom.com/content/dam/logos/partner-client-logos/AWS_Logo_White.png' alt='aws' height='40'>
+<img src='https://pbs.twimg.com/profile_images/1293252199653371904/NUBlg7jw_400x400.jpg' alt='nginx' height='40'>
 
 
 
