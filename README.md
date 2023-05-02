@@ -1,5 +1,5 @@
 # Hi there 👋, Marouane Ourdou
-#### I am junior DevOps / CLOUD engineer.
+#### I am a junior DevOps / CLOUD engineer.
 ![I am junior DevOps/CLOUD engineer.](./banner_mrri.png)
 
 All the projects in this profile are either school projects or personnel projects. I enjoyed working and learned a lot from them.
